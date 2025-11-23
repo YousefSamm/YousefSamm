@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yousef Sammour
 
-## 🤖 Automation Engineer | Robotics | Industrial Automation
+## 🤖 Mehcatronic Engineer | Robotics | Industrial Automation
 
 Mechatronics Engineer specializing in:
 - 🤖 **Robotics Automation:** ROS 2, Multi-Agent Systems, SLAM, Navigation
@@ -42,6 +42,15 @@ Wearable AI device for visually impaired users using **Raspberry Pi**, **YOLO ob
 **CAD:** SolidWorks • Fusion 360
 
 ---
+
+## 💪 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 Let's Connect
 
