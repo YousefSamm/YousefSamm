@@ -62,10 +62,6 @@ Wearable AI device for visually impaired users using **Raspberry Pi**, **YOLO ob
 
 ---
 
-## 📊 GitHub Stats
 
-![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousefSamm&show_icons=true&theme=radical)
-
----
 
 *Currently seeking opportunities in Robotics Engineering, Automation, and Industrial Control Systems*
