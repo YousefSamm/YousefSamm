@@ -5,7 +5,6 @@
 Mechatronics Engineer specializing in:
 - 🤖 **Robotics Automation:** ROS 2, Multi-Agent Systems, SLAM, Navigation
 - ⚙️ **Industrial Automation:** PLC Programming (TIA Portal, Simatic Manager)
-- 🔄 **Workflow Automation:** Zapier, IFTTT, Business Process Optimization
 - 🧠 **AI Integration:** YOLO, Reinforcement Learning, Computer Vision
 - 💻 **Embedded Systems:** Arduino, Raspberry Pi, Real-time Control
 
