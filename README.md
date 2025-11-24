@@ -68,4 +68,4 @@ Wearable AI device for visually impaired users using **Raspberry Pi**, **YOLO ob
 
 ---
 
-*Currently seeking opportunities in Automation Engineering, Robotics, and Industrial Control Systems*
+*Currently seeking opportunities in Robotics Engineering, Automation, and Industrial Control Systems*
