@@ -57,11 +57,11 @@ Wearable AI device for visually impaired users using **Raspberry Pi**, **YOLO ob
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yousef-sammour-b0bb621a0/)
 - 📧 Email: yusef.sammour@gmail.com
-- 📍 Based in Homs, Syria
-- 🌍 Open to remote opportunities
+- 📍 Based in London, United Kingdom
+- 💻 Open to part-time opportunities
 
 ---
 
 
 
-*Currently seeking opportunities in Robotics Engineering, Automation, and Industrial Control Systems*
+*Currently seeking opportunities in Robotics Engineering, Automation, and AI*
